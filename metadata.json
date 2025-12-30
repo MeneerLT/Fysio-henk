@@ -1,0 +1,7 @@
+{
+  "name": "Fysio Henk ",
+  "description": "De AI-triage assistent van Fy-fit Fysiotherapie Nijmegen voor snelle blessure-check en afspraken.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
